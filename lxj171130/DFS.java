@@ -113,7 +113,6 @@ public class DFS extends GraphAlgorithm<DFS.DFSVertex> {
 
     /**
      * Initializing Vertices of graph: setting color to white
-     * Creating new finishList
      */
     private void initialize() {
         cno= 0;
